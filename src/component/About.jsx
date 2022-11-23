@@ -18,11 +18,8 @@ const About = () => {
                </div>
             <div>
                <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                   Expedita voluptate, delectus, nemo aut optio explicabo
-                   praesentium consequuntur voluptas reiciendis debitis, 
-                   sapiente similique maiores? Voluptas totam mollitia placeat
-                   animi fugiat amet?
+               I like a challenge and Im in for anything where I can put in my skills.
+                  I have been experimenting and devloping webpages from my college.
                </p>
                </div>
             </div>
