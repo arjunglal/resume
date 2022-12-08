@@ -18,7 +18,7 @@ const About = () => {
                </div>
             <div>
                <p>
-               I like a challenge and Im in for anything where I can put in my skills.
+               I like a challenge and I'm in for anything where I can put in my skills.
                   I have been experimenting and devloping webpages from my college.
                </p>
                </div>
